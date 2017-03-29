@@ -1,0 +1,33 @@
+Christan	cdeluna@ggc.edu	Software Development	100%	24.125.185.239
+Bobby	bobby@ggc.edu	Digital Media	100%	24.125.185.239
+Zelda	zelda@ggc.edu	Other	25%	24.125.185.239
+Shulk	shulk@ggc.edu	Systems and Security	50%	24.125.185.239
+Student	student@ggc.edu	Software Development	100%	24.125.185.239
+Cheeb	cheeb@ggc.edu	Software Development	100%	24.125.185.239
+Tom	tom@ggc.edu	Software Development	100%	24.125.185.239
+Sam	sam@ggc.edu	Digital Media	75%	24.125.185.239
+Jay	jay@ggc.edu	Digital Media	50%	24.125.185.239
+May	may@ggc.edu	Digital Media	75%	24.125.185.239
+Luke	luke@ggc.edu	Software Development	100%	24.125.185.239
+John	john@ggc.edu	Enterprise Systems	0%	24.125.185.239
+Raffy	raffy@gmail.com	Digital Media	0%	24.125.185.239
+Raffy	raffy@gmail.com	Enterprise Systems	50%	24.125.185.239
+Raffy	raffy@gmail.com	Software Development	25%	24.125.185.239
+Raffy	raffy@gmail.com	Systems and Security	25%	24.125.185.239
+Raffy	raffy@gmail.com	Other	100%	24.125.185.239
+Christan de Luna	cdeluna@ggc.edu	Software Development	100%	24.125.185.239
+Chicken Doodle	cdoodle@ggc.edu	Digital Media	50%	24.125.185.239
+		Enterprise Systems	0%	24.125.185.239
+Chocolate	chocolate@gmail.com	Software Development	100%	24.125.185.239
+		Enterprise Systems	0%	24.125.185.239
+Bored	bored@gmail.com	Software Development	25%	24.125.185.239
+Cat	cat@ggc.edu	Software Development	100%	24.125.185.239
+Adult Swim	adult.swim@turner.com	Digital Media	100%	157.166.173.5
+Perry	perry@aol.com	Enterprise Systems	50%	24.125.185.239
+Meatwad	meatwad@turner.com	Systems and Security	50%	157.166.173.5
+		Enterprise Systems	0%	24.125.138.5
+Dude	bbb@abc.com	Systems and Security	25%	24.125.138.5
+Dove	dove@ggc.edu	Software Development	100%	157.166.173.5
+Cake	cake@php.com	Software Development	0%	157.166.173.5
+		Enterprise Systems	50%	96.80.46.137
+Precious West	pwest1@ggc.edu	Software Development	50%	96.80.46.137
